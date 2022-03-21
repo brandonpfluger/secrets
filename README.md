@@ -6,5 +6,5 @@ The aim of this short project was to create a web app that uses PassportJS and G
 This project is created with:
 - EJS
 - Express
-- MongoDB
+- MongoDB / Mongoose
 - CSS & Bootstrap
